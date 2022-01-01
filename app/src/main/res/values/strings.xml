@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatFacts</string>
+    <string name="new_fact">Next Fact</string>
+    <string name="date_posted">Date Posted:</string>
+</resources>
