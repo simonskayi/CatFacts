@@ -68,7 +68,7 @@ class MainActivity : AppCompatActivity() {
            catch (e:Exception)
            {
             withContext(Dispatchers.Main){
-                Toast.makeText(applicationContext, "No Internet Connection", Toast.LENGTH_SHORT).show()
+                Toast.makeText(applicationContext, "No Internet Connection.Try Again", Toast.LENGTH_SHORT).show()
             }
         }
 
